@@ -1,4 +1,4 @@
-# Modern Hospital Login Page
+# Hospital Login Page
 
 A sleek and modern hospital login page built with React JS, featuring smooth animations and a responsive design. This project utilizes **Framer Motion** for effortless transitions and **Tailwind CSS** for stunning UI styling, ensuring a seamless and easy user experience.
 
