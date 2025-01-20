@@ -70,10 +70,4 @@ Contributions are welcome! If you have suggestions for improvements or new featu
    git push origin feature-name
    ```
 5. Open a pull request.
-6. 
-
-For any questions or feedback, feel free to contact me:
-
-- GitHub: [your-username](https://github.com/your-username)
-- Email: [your-email@example.com](mailto:your-email@example.com)
 
