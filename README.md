@@ -52,12 +52,6 @@ To get started with the project, follow these steps:
 
 ---
 
-## Screenshots
-
-Include some screenshots of your login page here to showcase its design and features.
-
----
-
 ## Contributing
 
 Contributions are welcome! If you have suggestions for improvements or new features, feel free to open an issue or submit a pull request.
@@ -76,16 +70,7 @@ Contributions are welcome! If you have suggestions for improvements or new featu
    git push origin feature-name
    ```
 5. Open a pull request.
-
----
-
-## License
-
-This project is licensed under the MIT License. See the LICENSE file for details.
-
----
-
-## Contact
+6. 
 
 For any questions or feedback, feel free to contact me:
 
