@@ -13,6 +13,14 @@ A sleek and modern hospital login page built with React JS, featuring smooth ani
 
 ---
 
+## Technologies Used
+
+- **React JS**: For building the user interface.
+- **Framer Motion**: For animations and transitions.
+- **Tailwind CSS**: For styling and responsive design.
+
+---
+
 ## Installation
 
 To get started with the project, follow these steps:
@@ -41,14 +49,6 @@ To get started with the project, follow these steps:
    ```
    http://localhost:5173
    ```
-
----
-
-## Technologies Used
-
-- **React JS**: For building the user interface.
-- **Framer Motion**: For animations and transitions.
-- **Tailwind CSS**: For styling and responsive design.
 
 ---
 
