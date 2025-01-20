@@ -24,7 +24,7 @@ To get started with the project, follow these steps:
 
 2. Navigate to the project directory:
    ```bash
-   cd modern-hospital-login
+   cd Hospital-Login-Page
    ```
 
 3. Install the dependencies:
@@ -34,7 +34,7 @@ To get started with the project, follow these steps:
 
 4. Start the development server:
    ```bash
-   npm start
+   npm run dev
    ```
 
 5. Open your browser and visit:
