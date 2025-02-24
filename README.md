@@ -27,7 +27,7 @@ To get started with the project, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/KrishBharadwaj394/Hospital-Login-Page.git
+   git clone https://github.com/KrishBharadwaj5678/Hospital-Login-Page.git
    ```
 
 2. Navigate to the project directory:
